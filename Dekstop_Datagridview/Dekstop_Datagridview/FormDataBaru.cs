@@ -15,6 +15,7 @@ namespace Dekstop_Datagridview
         public FormDataBaru()
         {
             InitializeComponent();
+
         }
 
         private void btnSimpan_Click(object sender, EventArgs e)
@@ -30,7 +31,7 @@ namespace Dekstop_Datagridview
             pns1.tanggalLahir = DateOnly.Parse(dateTimePicker1.Value.ToShortDateString());
             pns1.tempatLahir = tbTanggal.Text;
             pns1.bidang = cbBidang.Text;
-            pns1.noTelp = long.Parse(tbTelp.Text);
+            pns1.noTelp = tbTelp.Text;
             return pns1;
 
         }

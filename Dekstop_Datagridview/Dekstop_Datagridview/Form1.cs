@@ -14,7 +14,7 @@ namespace Dekstop_Datagridview
             pns1.tanggalLahir = new DateOnly(2004,05,17);
             pns1.tempatLahir = "Metro";
             pns1.bidang = "Agrikultur";
-            pns1.noTelp = 081221389123;
+            pns1.noTelp = "081221389123";
 
 
             listPNS.Add(pns1);
@@ -57,6 +57,6 @@ namespace Dekstop_Datagridview
         public DateOnly tanggalLahir { get; set; }
         public string tempatLahir { get; set; }
         public string bidang { get; set; }
-        public long noTelp { get; set; }
+        public string noTelp { get; set; }
     }
 }

@@ -11,7 +11,7 @@ namespace Dekstop_Datagridview
             pns1.nama = "Jetro";
             pns1.nip = 222410101064;
             pns1.gaji = 2000000;
-            pns1.tanggalLahir = new DateOnly(2004,05,17);
+            pns1.tanggalLahir = new DateOnly(2004, 05, 17);
             pns1.tempatLahir = "Metro";
             pns1.bidang = "Agrikultur";
             pns1.noTelp = "081221389123";

@@ -31,9 +31,9 @@ namespace Dekstop_Datagridview
             {
                 if (frmDataBaru.ShowDialog() == DialogResult.OK)
                 {
-                    PNS pns1 = frmDataBaru.GetPNS();
+                    PNS pns_baru = frmDataBaru.GetPNS();
                     dataGridView1.DataSource = null;
-                    listPNS.Add(pns1);
+                    listPNS.Add(pns_baru);
                     dataGridView1.DataSource = listPNS;
 
                     frmDataBaru.Close();

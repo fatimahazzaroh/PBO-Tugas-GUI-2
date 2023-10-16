@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\pbo-Tugas-data-grid-view\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\PBO-Tugas-GUI-2\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
       "projectName": "Dekstop_Datagridview",
-      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\pbo-Tugas-data-grid-view\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\PBO-Tugas-GUI-2\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\pbo-Tugas-data-grid-view\\Dekstop_Datagridview\\Dekstop_Datagridview\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\fatimahazzaroh\\PBO-Tugas-GUI-2\\Dekstop_Datagridview\\Dekstop_Datagridview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

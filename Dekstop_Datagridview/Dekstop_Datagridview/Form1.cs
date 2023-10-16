@@ -16,9 +16,7 @@ namespace Dekstop_Datagridview
             pns1.bidang = "Agrikultur";
             pns1.noTelp = "081221389123";
 
-
             listPNS.Add(pns1);
-
             dataGridView1.DataSource = listPNS;
         }
 
@@ -34,8 +32,8 @@ namespace Dekstop_Datagridview
                 if (frmDataBaru.ShowDialog() == DialogResult.OK)
                 {
                     PNS pns1 = frmDataBaru.GetPNS();
-                    listPNS.Add(pns1);
                     dataGridView1.DataSource = null;
+                    listPNS.Add(pns1);
                     dataGridView1.DataSource = listPNS;
 
                     frmDataBaru.Close();
